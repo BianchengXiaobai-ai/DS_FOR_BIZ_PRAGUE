@@ -1,0 +1,8 @@
+data/*.csv
+data/*.csv.gz
+data/*.geojson
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
